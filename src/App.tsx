@@ -4,7 +4,7 @@ function App() {
     <>
      <h1> React + Typescript </h1>
     </>
-  );
+  )
 }
 
 export default App; 
